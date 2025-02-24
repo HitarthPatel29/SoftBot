@@ -3,7 +3,7 @@
 ## Description of the Bot:
 The **SoftBot V2** is an advanced version of an FAQ chatbot. This bot can be used as a helper bot for software development students to ask software development questions. This bot is designed to be a bot for **students**, hence, it is able to answer questions in a much simpler way for beginners to understand better.
 
-- The Bot answers to any text with ‘Hey_’, ‘Softbot’ or ‘Hey Softbot’.
+- The Bot answers to any text with ‘Hey’, ‘Softbot’ or ‘Hey Softbot’.
 
 ### Invitation Link:
 [Click here to invite the bot](https://discord.com/oauth2/authorize?client_id=1302428443236892822&permissions=0&integration_type=0&scope=bot)
