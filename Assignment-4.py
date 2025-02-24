@@ -8,7 +8,7 @@ import discord
 from openai import OpenAI
 
 """providing OpenAi API Key"""
-client=OpenAI(api_key = "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")
+client=OpenAI(api_key = "enter your OpenAi API KEY here!")
 
 
 class MyClient(discord.Client):
@@ -90,7 +90,7 @@ class MyClient(discord.Client):
 
 ## Set up and log in on discord
 discord_client = MyClient()
-token = "MTMwMjQyODQ0MzIzNjg5MjgyMg.GMlNHY.quXRrocGnHZU2DAdRp5GVrPZKUdN3v9jVATd5I"      ##this is discord token
+token = "Enter your Discord Token here"      ##this is discord token
 
 print("Select bot mode: 'use shell' or 'use discord'")
 #discord_client.main()
